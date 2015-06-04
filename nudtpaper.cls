@@ -75,6 +75,7 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage[amsmath,thmmarks,hyperref]{ntheorem}
 \RequirePackage[CJKnumber,CJKchecksingle,no-math]{xeCJK}
+\RequirePackage{CJKnumb}
 \RequirePackage{indentfirst}
 \RequirePackage[numbers,sort&compress,square]{natbib}
 \RequirePackage[colorlinks=true,linkcolor=blue,citecolor=red,pdfborder=0 1 1]{hyperref}
